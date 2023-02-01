@@ -1,0 +1,37 @@
+# When looking to set environment: #
+
+Go to View > Command Palette > Search: "Python: Select Interpreter " > Put your file path in WITH python.exe AT THE END > Repeat when prompted > Good to go
+
+
+# When looking to set a jupyter notebook .ipynb file #
+Go to File > New File > Jupyter Notebook 
+
+IF jupyter notebook option isn't there then add Jupyter Extension in through the Extensions Tab on the left. 
+
+
+# Looking to change color scheme #
+File > Preferences > Color Theme
+Red is good
+Solarized Dark is good
+
+# Turns out you don't have ipykernels installed NO PROBLEM #
+Enter into Anaconda command prompt WITH desired environment: conda install -c anaconda ipykernel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
