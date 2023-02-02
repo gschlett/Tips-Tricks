@@ -1,0 +1,14 @@
+Pandas for Data Wrangling 
+
+Matplotlib for data plotting 
+
+PyQT 5 for GUI development (everyone says tkinter sucks) , NeuralNine does a good youtube video on it, https://doc.qt.io/qtforpython/
+Developing App for data visualization: https://doc.qt.io/qtforpython/tutorials/datavisualize/index.html
+
+DearPyGui for GUI development with plotting API, apparently really good for scientific app development 
+
+Seaborn for Visualizing statistical data/ stat analysis
+
+SciPy for Linear Algebra and stats https://docs.scipy.org/doc/scipy/tutorial/general.html
+
+Raw Python Documentation: https://docs.python.org/3/library/index.html Python Standard Library
