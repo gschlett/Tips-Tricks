@@ -12,3 +12,6 @@ Seaborn for Visualizing statistical data/ stat analysis
 SciPy for Linear Algebra and stats https://docs.scipy.org/doc/scipy/tutorial/general.html
 
 Raw Python Documentation: https://docs.python.org/3/library/index.html Python Standard Library
+
+PySAL used for spatial data analysis, spatial inequality analysis
+
