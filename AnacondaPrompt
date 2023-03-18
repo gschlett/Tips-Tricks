@@ -10,5 +10,6 @@ Third, when command prompt asks "Proceed ([y]/n)?" Just enter: y (y meaning yes)
 Another Example: 
 conda install -c conda-forge movingpandas (movingpandas name of package being installed) 
 
-
+To Activate an Environment: 
+conda activate -environment name-
 
