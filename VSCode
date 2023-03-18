@@ -17,7 +17,9 @@ Solarized Dark is good
 # Turns out you don't have ipykernels installed NO PROBLEM #
 Enter into Anaconda command prompt WITH desired environment: conda install -c anaconda ipykernel
 
+# Changing your Environment # 
 
+Go to .ipynb file you want in that environment > Find in file directory > Right click and hit open with VS Code 
 
 
 
