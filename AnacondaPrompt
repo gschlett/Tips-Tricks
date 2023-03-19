@@ -1,14 +1,7 @@
-#### Setting up Environments and Installing Packages in Anaconda Prompt ####
+#### Working in Anaconda Prompt ####
 
-#To install a package to a specific environment:
-First, activate environment in Anaconda Prompt: conda activate MovingPandasWS (MovingPandasWS is the name of the environment)
-
-Second, install the necessary packages: conda install matplotlib (matplotlib is the name of the package)
-
-Third, when command prompt asks "Proceed ([y]/n)?" Just enter: y (y meaning yes)
-
-Another Example: 
-conda install -c conda-forge movingpandas (movingpandas name of package being installed) 
+To install package: 
+conda install geopandas
 
 To Activate an Environment: 
 conda activate -environment name-
