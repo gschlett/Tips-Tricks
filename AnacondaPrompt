@@ -13,3 +13,23 @@ conda install -c conda-forge movingpandas (movingpandas name of package being in
 To Activate an Environment: 
 conda activate -environment name-
 
+To Do Python Scripting in Anaconda Prompt: 
+python
+
+To get out of Python Scripting:
+exit()
+
+To stop an Operation: 
+ctrl + c
+
+IF Command Prompt keeps getting stuck at Solving Environment can do this: 
+conda update --all --yes
+
+
+
+
+
+
+
+
+
