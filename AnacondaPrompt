@@ -3,6 +3,9 @@
 To install package: 
 conda install geopandas
 
+To install with mamba/conda forge:
+mamba install -c conda-forge ipykernel
+
 To Activate an Environment: 
 conda activate -environment name-
 
