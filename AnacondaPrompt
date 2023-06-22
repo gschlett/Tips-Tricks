@@ -24,6 +24,9 @@ conda update --all --yes
 To install arcpy: 
 conda install arcpy -c esri
 
+To see list of packages in the active environment: 
+conda list 
+
 
 
 
