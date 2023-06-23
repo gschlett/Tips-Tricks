@@ -21,6 +21,10 @@ Enter into Anaconda command prompt WITH desired environment: conda install -c an
 
 Go to .ipynb file you want in that environment > Find in file directory > Right click and hit open with VS Code 
 
+# Fixing conda not recognized as cmdlet function # 
+1. Activate environment in Anaconda Prompt 
+2. type "code" into the console and hit enter, VSCode opens with conda recognized 
+
 
 
 
