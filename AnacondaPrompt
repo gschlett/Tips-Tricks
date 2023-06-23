@@ -33,6 +33,30 @@ conda create --name VSCode2
 
 
 
+#### Troubleshooting Errors ####
+
+# Error: OpenSSL appears to be unavailable on this machine # 
+Follow these steps: https://github.com/conda/conda/issues/11982
+go to location where you've install anaconda anaconda3>Library>bin. search and copy following dll files
+
+libcrypto-1_1-x64.dll
+libssl-1_1-x64.dll
+
+and paste to anaconda3>DLLs.
+
+then restart your pc.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
